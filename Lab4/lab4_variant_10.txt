@@ -1,0 +1,6 @@
+Mary Key;Guerlain;Eveline;L'OREAL;Maybelline
+SPF:0.25;8;10;6;9;7
+Price:0.15;10;6;10;7;8
+The ingredients of foundation:0.25;9;10;6;9;8
+The stability of foundation:0.2;9;10;7;9;8
+Palette of shades of foundation:0.15;8;10;6;9;8
